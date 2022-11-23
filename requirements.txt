@@ -4,3 +4,6 @@
 
 azure-functions
 fastapi
+azure-cosmos
+aiohttp
+nest_asyncio
