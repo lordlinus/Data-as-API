@@ -3,7 +3,7 @@
   "Values": {
     "AzureWebJobsStorage": "",
     "FUNCTIONS_WORKER_RUNTIME": "python",
-    "testcosmos01_DOCUMENTDB": "AccountEndpoint=https://test-cosmos-01.documents.azure.com:443/;AccountKey=rRt9YDGMEa4nc1vif8Xfj0ykRikI831fNLxQd4uteLTof5qB0MRewVtXhMqCKN4hyJP1QAWmJzv7utMIvydEUw==;",
+    "testcosmos01_DOCUMENTDB": "AccountEndpoint=https://test-cosmos-01.documents.azure.com:443/;AccountKey==;",
     "testcosmos01_ENDPOINT": "https://test-cosmos-01.documents.azure.com:443",
     "testcosmos01_KEY": "==",
     "testcosmos01_DB": "db01",
